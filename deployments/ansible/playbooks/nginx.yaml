@@ -1,6 +1,0 @@
----
-- name: Install and configure nginx
-  hosts: webservers
-  become: yes
-
-  tasks:
