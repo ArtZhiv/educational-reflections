@@ -1,5 +1,6 @@
 {
   "showLineNumber": true,
   "tabSize": 2,
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "useMarkdownLinks": true
 }

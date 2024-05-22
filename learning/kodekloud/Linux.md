@@ -1,13 +1,13 @@
 # Questions about Linux
 
-> [!question]+ Create a user
+> [!question]- Create a user
 > Команда для решения поставленной задачи:
 > > [!success] `sudo useradd -gG wheels stark`
 > 
 > > [!info] ![[Essential Linux Commands#useradd Adds a new user to the system]]
 > 
 
-> [!question]+ Create a group
+> [!question]- Create a group
 > Команда для решения поставленной задачи:
 > > [!success] `sudo groupadd -f nautilus_sftp_users && sudo useradd -G nautilus_sftp_users stark`
 > 

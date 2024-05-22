@@ -8,17 +8,18 @@ tags:
   - k8s
   - kubernetes
 ---
-![[Kubernetes-Cheat-Sheet.png]]
+![Kubernetes Cheat Sheet](Kubernetes-Cheat-Sheet.png)
 
 # Kubernetes (K8s) — это программная платформа для автоматического управления контейнеризованными приложениями. K8s предлагает механизмы для развертывания, масштабирования и поддержки контейнеров и микросервисов.
 
-![[k8s.main.png]]
+![main](k8s.main.png)
 
 ## Понятия, описывающие архитектуру и функциональность системы Kubernetes:
 
-![[k8s.components.png]]
 
-![[Pasted image 20240327013653.png]]
+![components](k8s.components.png)
+
+![k8s cluster](Pasted%20image%2020240327013653.png)
 
 * **Namespaces** - пространство имен
 

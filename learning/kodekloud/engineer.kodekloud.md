@@ -6,7 +6,6 @@ tags:
   - ZeroToHero
   - DevSecOps
 ---
-
 # Project Nautilus
 
 ## Overview
@@ -22,7 +21,7 @@ Project Nautilus is the Naval subdivision of the xFusionCorp Industries. Nautilu
 ## Application Architecture
 Nautilus deployment architecture can be viewed [here](https://lucid.app/lucidchart/58e22de2-c446-4b49-ae0f-db79a3318e97/edit?shared=print_r%28%271300672594%27%29%3Bprint%2872%29%3Bprint_r%28%277882648558%27%29%3B&page=0_0#).
 
-![[Kodekloud engineer.svg]]
+![kodekloud infrastructure](Kodekloud%20engineer.svg)
 
 The Nautilus is a three-tier application and is deployed in the Stratos Datacenter in the North America Region.
 
