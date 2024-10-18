@@ -2,5 +2,9 @@
   "showLineNumber": true,
   "tabSize": 2,
   "attachmentFolderPath": "assets",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true
 }
