@@ -696,7 +696,7 @@
 
 29. Для чего нужны network masks?
 	
-	![tcp-ip.essential](tcp-ip.essential#Маска%20подсети%20и%20IP-адреса)
+	![TCP-IP](educational-reflections.wiki/TCP-IP.md#Маска%20подсети%20и%20IP-адреса)
 	
 
 30. Структура IP-пакета. Из чего состоит? Что такое фрагментация и почему она происходит?
@@ -946,7 +946,7 @@
 
 37. Расскажите о модели OSI. Опишите функции и назначение каждого уровня.
 	
-	![tcp-ip.essential](tcp-ip.essential#OSI%20(Basic%20Reference%20Model%20Open%20Systems%20Interconnection%20model)%20—%20эталонная%20модель%20взаимодействия%20устройств%20в%20сети)
+	![TCP-IP](educational-reflections.wiki/TCP-IP.md#OSI%20(Basic%20Reference%20Model%20Open%20Systems%20Interconnection%20model)%20—%20эталонная%20модель%20взаимодействия%20устройств%20в%20сети)
 	
 
 38. Какие сетевые топологии вы знаете? Опишите разницу между ними.
